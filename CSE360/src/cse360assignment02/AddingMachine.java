@@ -27,7 +27,7 @@ public class AddingMachine
 	//toString method to creating a string. It returns a string.
 	public String toString()
 	{
-		return " "+"new change12";
+		return " ";
 	}
 	//a method to clear. 
 	public void clear()
